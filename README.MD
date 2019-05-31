@@ -5,4 +5,4 @@ $ pip install pipreqs
 
 $ pipreqs /path/to/project
 
-This source is free to use.
+This source is free to use. Please Stars if you've learned something
